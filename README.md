@@ -14,7 +14,7 @@ The Human-Centered Robotics (HCR) project focused on developing robotic systems 
 
 The research emphasized wearable robotic mechanisms, biosignal-driven interfaces, and rapid prototyping to bridge human intention with robotic assistance.
 
-My part was an **elbow sleeve** built on **Slide-Linkage based Layer Jamming (SLLJ)**, a soft variable-stiffness mechanism from the lab ([W. H. Choi et al., 2019](https://doi.org/10.1109/LRA.2019.2908493)): thin TPU layers inside a sealed enclosure slide freely when vented and lock together under vacuum. The goal was a light, compact sleeve that helps the elbow in **isometric** holds (gravity compensation when holding a tool for a long time) and **eccentric** lowering motions, without motors or rigid frames.
+My part was an **elbow sleeve** built on **Slide-Linkage based Layer Jamming (SLLJ)**, a soft variable-stiffness mechanism from the lab ([W. H. Choi et al., 2019](https://doi.org/10.1109/LRA.2019.2908493)): thin layers inside a sealed TPU enclosure slide freely when vented and lock together under vacuum. The goal was a light, compact sleeve that helps the elbow in **isometric** holds (gravity compensation when holding a tool for a long time) and **eccentric** lowering motions, without motors or rigid frames.
 
 ---
 
